@@ -30,8 +30,8 @@ export const doggos = [
     about: 'Cute and cuddly'
   },
   {
-    id: 7,
-    name: 'https://images.dog.ceo/breeds/pomeranian/n02112018_2896.jpg',
+    id: 'https://images.dog.ceo/breeds/pomeranian/n02112018_2896.jpg',
+    name: 'Mochi',
     about: 'Soft'
   },
   {
@@ -45,7 +45,7 @@ export const doggos = [
     about: 'I run really fast'
   },
   {
-    id: 10,
+    id: 'https://images.dog.ceo/breeds/retriever-golden/n02099601_6772.jpg',
     name: 'Lemon',
     about: 'Sweet and sour'
   }
